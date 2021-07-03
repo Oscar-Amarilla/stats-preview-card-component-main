@@ -80,7 +80,7 @@ body{
     flex-direction: column-reverse;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    height: 100%;
   }
   .box{ /*Text content box*/
     margin: 0;
