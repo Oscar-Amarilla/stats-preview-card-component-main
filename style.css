@@ -20,8 +20,7 @@ body{
   padding: 70px 60px 60px 75px;
   /*Style*/
   background-color: hsl(244, 38%, 16%);
-  border-top-left-radius: 8px;
-  border-bottom-left-radius: 8px;
+  border-radius: 8px 0px 0px 8px;
 }
 .title_1{ /*H1 style*/
   color: hsl(0, 0%, 100%);
@@ -44,7 +43,7 @@ body{
   /*Dimensions and style*/
   width: 600px;
   height: 495px;
-  border-radius: 8px 8px 0px 0px;
+  border-radius: 0px 8px 8px 0px;
   /*Image and style*/
   background-image: url("./images/image-header-desktop.jpg");
   background-size: cover;
