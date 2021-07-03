@@ -91,7 +91,7 @@ body{
   }
   .cover{ /*Image box*/
     width: 350px;
-    height: 310px;
+    height: 270px;
     border-radius: 8px 8px 0px 0px;
   }
   .title_1{ /*H1 style*/
